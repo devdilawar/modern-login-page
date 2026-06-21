@@ -22,3 +22,5 @@ Forgot Password link
 Smooth hover animations
 <br>
 Beginner-friendly code structure
+<br>
+Responsive Design
